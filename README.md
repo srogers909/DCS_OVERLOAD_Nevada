@@ -19,3 +19,7 @@ A basic mission that launches multiple groups of enemies around Nevada Map for D
 - [F-15C Eagle](https://www.digitalcombatsimulator.com/en/products/planes/eagle_fc/) - _Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)_
 - [Su-33](https://www.digitalcombatsimulator.com/en/products/planes/su-33_fc/) - _Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)_
 - [Su-27 "Flanker"](https://www.digitalcombatsimulator.com/en/products/planes/flanker_fc/) - _Part of [Flaming Cliffs 3](https://www.digitalcombatsimulator.com/en/products/planes/flaming_cliffs/)_
+
+## Required Third Party Mods
+- [A-4E-Community](https://heclak.github.io/community-a4e-c/)
+- [F-22A Raptor](https://fsoutlet.com/f22/)
